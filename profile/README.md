@@ -22,5 +22,9 @@ This account store part of the research outputs.
 
 ---
 
+### Related repository
+[BID-palimpsest](https://github.com/bhrnprhmd-has/BID-palimpsest)
+Code and data for blind image decomposition and the recovery of overlapping text layers in palimpsests.
+
 ## Funding  
 Funded by the **Horizon Europe Programme**, MSCA Doctoral Network, Grant Agreement No. 101073543.
