@@ -26,7 +26,7 @@ This account store part of the research outputs.
 [BID-palimpsest](https://github.com/bhrnprhmd-has/BID-palimpsest)
 Code and data for blind image decomposition and the recovery of overlapping text layers in palimpsests.
 
-[Text_image_super_res_folatin_CHR2025] (https://github.com/bhrnprhmd/Text_image_super_res_folatin_CHR2025)
+[Text_image_super_res_folatin_CHR2025](https://github.com/bhrnprhmd/Text_image_super_res_folatin_CHR2025)
 Repository related to the paper "Blind Text Super-resolution for Enhancing the Readability of Hidden Fragments" presented at CHR 2025.
 
 ## Funding  
